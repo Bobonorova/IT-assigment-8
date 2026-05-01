@@ -7,7 +7,7 @@ from aiogram.contrib.middlewares.logging import LoggingMiddleware
 # =====================
 # CONFIG
 # =====================
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8678686066:AAER7DEnxhRcDZ4TzswdzXJuLXkvh9Ho9KI"
 ALLOWED_USERS = [123456789]
 
 WEBHOOK_PATH = f"/webhook/{TOKEN}"
